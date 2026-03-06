@@ -63,17 +63,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=apepsis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br>
 
-## GitHub Thropies 🏆 :
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=apepsis&theme=synthwave&no-frame=false&no-bg=true&margin-w=4)
 
-<br>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnushkaWijegoonawardana97)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
-
-<br>
-
-## Activity Graph 📊 :
-
-<br>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/apepsis?new=1) 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnushkaWijegoonawardana97&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
