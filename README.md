@@ -1,9 +1,11 @@
 <div align="center" width="50">
-    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
+    <img alt="Hi there banner" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQ5YXJleHpyZnUwOWozY2czMml6MGVoaXVkOGlkYWIyZnNzcWRoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W6cSHxAxM6KrA6y9JE/giphy.gif" width="300"/>
 </div>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Alexis Ospino Gutierrez</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/AnushkaWijegoonawardana97?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/AnushkaWijegoonawardana97?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" />
+<h1 align="center">
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Alexis Ospino Gutierrez
+</h1>
+
 
 ## Hi, I am Alexis Ospino Gutierrez :
 
@@ -29,17 +31,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/alexisnonstop_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alexis-andr%C3%A9-ospino-gutierrez-bb53b2303/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexis.school678@gmail.com) 
 <br>
 
-## What I am Good at 🧑‍💻 :
-
-<br>
-
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+# 💻 Tech Stack:
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 <br>
 
