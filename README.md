@@ -1,4 +1,4 @@
-<div align="center" width="50">
+<div align="center" width="40">
     <img alt="Hi there banner" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQ5YXJleHpyZnUwOWozY2czMml6MGVoaXVkOGlkYWIyZnNzcWRoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W6cSHxAxM6KrA6y9JE/giphy.gif" width="300"/>
 </div>
 
@@ -6,10 +6,7 @@
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Alexis Ospino Gutierrez
 </h1>
 
-
-## Hi, I am Alexis Ospino Gutierrez :
-
-- 🏫 I am currently studying **Mechatronics Engineering** at [Pontifical Catholic University of Peru (PUCP)](https://www.pucp.edu.pe/)
+🏫 I am currently studying **Mechatronics Engineering** at [Pontifical Catholic University of Peru (PUCP)](https://www.pucp.edu.pe/)
 
 🔬 Member of **IEEE Computer Society PUCP** and **IEEE Robotics & Automation Society PUCP**
 
