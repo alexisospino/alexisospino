@@ -18,7 +18,6 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 🌎 Aspiring to pursue graduate studies at institutions such as **MIT**, focusing on cutting-edge research in technology and innovation
 
-🏡 Lives in **Lima, Peru**
 
 ⚡ **Fun Facts**: 
 
